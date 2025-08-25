@@ -1,7 +1,7 @@
 function Card({ titulo, descricao }) {
   return (
     <div>
-      <h2> {titulo}</h2>
+      <h3>{titulo}</h3>
       <p> {descricao}</p>
     </div>
   );
